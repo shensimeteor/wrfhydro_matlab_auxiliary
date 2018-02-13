@@ -14,6 +14,7 @@
    d. find a line with multiple lon,lat
    e. reformat the lon,lat line to the format as BAB/reformated_BAB_channel_boundary.txt, refer to BAB/reformat_channel_boundary.sh to do the reformating
 
+4. output channel_nodeidx & channel_nodelonlat for new 7 subdomains, batch run
 ------------
 any matlab .m file can be run as:
 ./matlab_run.sh <matlab .m file>
